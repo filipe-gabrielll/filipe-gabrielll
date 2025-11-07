@@ -3,7 +3,7 @@
 - 📚 Estudando Python
 - 📫 Contate-me no email: filipe.s.alencar@gmail.com
 - 👦🏻 Pronome: ele/dele
-- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipe-gabrielll&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
